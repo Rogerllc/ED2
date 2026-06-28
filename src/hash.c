@@ -50,7 +50,7 @@ int hash_inserir(TabelaHash *h, const char *chave) {
         }
         atual = atual->proximo;
     }
-    No *novo = (No *)malloc(sizeof(No));
+    No *novo = (No *)malloc(sizeof( No));
     if (!novo) {
         fprintf(stderr, "Erro: falha ao alocar No\n");
         exit(EXIT_FAILURE);
