@@ -135,3 +135,4 @@ Arquivo 'data/usuarios_1k.txt' gerado com 1000 registros.
 | Técnica | Double hashing | Kirsch & Mitzenmacher (2006) |
 
 ---
+
