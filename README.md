@@ -135,10 +135,3 @@ Arquivo 'data/usuarios_1k.txt' gerado com 1000 registros.
 | Técnica | Double hashing | Kirsch & Mitzenmacher (2006) |
 
 ---
-
-## Referências
-
-- KNUTH, D. E. *The Art of Computer Programming*, Vol. 3. Addison-Wesley, 1998.
-- BLOOM, B. H. Space/time trade-offs in hash coding with allowable errors. *CACM*, 1970.
-- KIRSCH, A.; MITZENMACHER, M. Less hashing, same performance. *ESA*, 2006.
-- RAMAKRISHNA, M. V. Practical performance of bloom filters. *CACM*, 1989.
